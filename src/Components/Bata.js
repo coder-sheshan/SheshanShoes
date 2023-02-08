@@ -5,7 +5,7 @@ const Bata = () => {
   return (
     <div>
       <General />
-      <h1>Bata</h1>
+      <h1>Sachin</h1>
     </div>
   )
 }
